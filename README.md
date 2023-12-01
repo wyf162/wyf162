@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=wyf162&theme=xcode" /> </div>
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_43592287"> </div>
 <!--
 **wyf162/wyf162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
