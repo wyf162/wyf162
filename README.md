@@ -12,7 +12,7 @@ Study Pythonic.
 
 <table>
 <tr><td>
-### 🏢 Work Experience
+🏢 Work Experience
 
 - [思勰投资] &emsp; 📌 2022-04-07 —— Now
   
