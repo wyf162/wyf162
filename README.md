@@ -3,7 +3,7 @@
 
 ##  🙋 Hello
 Keep Coding.  
-Love Algo，always particapte in contenst in Leetcode, nowCOder, Codeforces and Atcoder.  
+Love Algo. Leetcode, nowCOder, Codeforces and Atcoder.  
 Study Pythonic.  
 - 🔭 I’m currently working on Sixie Capital
 - 🌱 I’m currently learning Algo
