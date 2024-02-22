@@ -10,9 +10,7 @@ Study Pythonic.
 - 👯 I’m looking to collaborate on ...
 
 
-<table>
-<tr><td>
-🏢 Work Experience
+## Work Experience
 
 - [思勰投资] 2022-04-07 —— Now
   
@@ -24,8 +22,7 @@ Study Pythonic.
   - 工作岗位：Python开发工程师
   - 工作内容：量化投研相关
 
-</td></tr>
-<tr><td>
+
 
 
 <!--
