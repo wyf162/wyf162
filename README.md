@@ -14,22 +14,18 @@ Study Pythonic.
 <tr><td>
 🏢 Work Experience
 
-- [思勰投资] &emsp; 📌 2022-04-07 —— Now
+- [思勰投资] 2022-04-07 —— Now
   
   - 工作岗位：数据开发工程师
   - 工作内容：数据中台
 
-- [通联数据] &emsp; 📌 2021-08-03 —— 2023-04-07
+- [通联数据] 2021-08-03 —— 2023-04-07
   
   - 工作岗位：Python开发工程师
   - 工作内容：量化投研相关
 
 </td></tr>
 <tr><td>
-
-
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_43592287"> </div>
-
 
 
 <!--
